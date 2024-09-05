@@ -19,9 +19,14 @@ WoS
 5: #4 AND #3 AND #2 AND #1
 
 -RAW Data (bibtex imported from Databases)
+
 | -IEEE
+
 | -Scopus
+
 | -Web of Science
+
 -Articles Selections (inclusion and exclusions criteria data. Exported from Parsifal)
+
 -Data Extraction (Full paper read and answers those questions)
-- 
+ 
