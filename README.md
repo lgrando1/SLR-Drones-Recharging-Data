@@ -1,5 +1,17 @@
 # SLR-Drones-Recharging-Data
 
+-RAW Data (bibtex imported from Databases)
+
+| -IEEE
+
+| -Scopus
+
+| -Web of Science
+
+-Articles Selections (inclusion and exclusions criteria data. Exported from Parsifal)
+
+-Data Extraction (Full paper read and answers those questions)
+
 The raw data extracted in 2024. 02/11
 
 Base Keywords (abstract) Search:
@@ -18,15 +30,5 @@ WoS
 4: AB=(Autonomy OR Continuos OR Endurance OR Perpetuos OR Persistance OR Coordination OR Orchestration OR Schedule)			
 5: #4 AND #3 AND #2 AND #1
 
--RAW Data (bibtex imported from Databases)
 
-| -IEEE
-
-| -Scopus
-
-| -Web of Science
-
--Articles Selections (inclusion and exclusions criteria data. Exported from Parsifal)
-
--Data Extraction (Full paper read and answers those questions)
  
