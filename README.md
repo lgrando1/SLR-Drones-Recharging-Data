@@ -17,3 +17,11 @@ WoS
 3: AB=(Agriculture OR Agri* OR Farm OR Precision OR sustainable OR Disaster OR Disaster relief OR Emergency OR Hazard OR Rescue)			
 4: AB=(Autonomy OR Continuos OR Endurance OR Perpetuos OR Persistance OR Coordination OR Orchestration OR Schedule)			
 5: #4 AND #3 AND #2 AND #1
+
+-RAW Data (bibtex imported from Databases)
+| -IEEE
+| -Scopus
+| -Web of Science
+-Articles Selections (inclusion and exclusions criteria data. Exported from Parsifal)
+-Data Extraction (Full paper read and answers those questions)
+- 
